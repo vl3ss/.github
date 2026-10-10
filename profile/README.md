@@ -23,11 +23,8 @@ vl3ss
 ├── ctf_writeup     — разборы задач с CTF-соревнований
 └── HTB_writeup     — разборы машин и расследований HackTheBox
 ```
----
 
 ## Репозитории
-
-### [Vl3ss-website](https://github.com/vl3ss/Vl3ss-website)
 
 ### [ctf_writeup](https://github.com/vl3ss/ctf_writeup)
 
@@ -60,8 +57,11 @@ Sherlock/
 ---
 
 ## Результаты
+
 Перейдите пожалуйста на сайт и посмотрите подробные наши достижение команды и так же индивидуальные, каждого игрока :)
+
 [vl3ss.github.io/Vl3ss-website](https://vl3ss.github.io/Vl3ss-website/)
+
 ---
 
 ## Контакты
