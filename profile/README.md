@@ -12,8 +12,8 @@
 
 | Участник | Роль | Направления | GitHub | Telegram | HTB |
 |---|---|---|---|---|
-| **Velesova** | Капитан | Web, OSINT, Infra | [Mara-hack](https://github.com/Mara-hack) | [@Svarozhuch](https://t.me/Svarozhuch) | https://app.hackthebox.com/users/3118861 |
-| **recently_was_good** | Аналитик SOC (L1) | SOC, DFIR, Forensics, Crypto | [ustinovlev039-cpu](https://github.com/ustinovlev039-cpu) | [@recently_was_good](https://t.me/recently_was_good) | https://app.hackthebox.com/users/3068176 |
+| **Velesova** | Капитан | Web, OSINT, Infra | [Mara-hack](https://github.com/Mara-hack) | [@Svarozhuch](https://t.me/Svarozhuch) | (https://app.hackthebox.com/users/3118861) |
+| **recently_was_good** | Аналитик SOC (L1) | SOC, DFIR, Forensics, Crypto | [ustinovlev039-cpu](https://github.com/ustinovlev039-cpu) | [@recently_was_good](https://t.me/recently_was_good) | (https://app.hackthebox.com/users/3068176) |
 
 ### Как устроены репозитории
 
