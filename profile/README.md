@@ -1,4 +1,4 @@
-# Vl3ss
+# vl3ss
 
 **CTF-команда.** 
 
@@ -12,8 +12,9 @@
 
 | Участник | Роль | Направления | GitHub | Telegram | HTB |
 |---|---|---|---|---|---|
-| **Velesova** | Капитан | Web, OSINT, Infra | [Mara-hack](https://github.com/Mara-hack) | [@Svarozhuch](https://t.me/Svarozhuch) | [MaraVelesova](https://app.hackthebox.com/users/3118861)
-| **recently_was_good** | Аналитик SOC (L1) | SOC, DFIR, Forensics, Crypto | [ustinovlev039-cpu](https://github.com/ustinovlev039-cpu) | [@recently_was_good](https://t.me/recently_was_good) | [recently](https://app.hackthebox.com/users/3068176)
+| **Velesova** | Капитан | Web, OSINT, Infra | [Mara-hack](https://github.com/Mara-hack) | [@Svarozhuch](https://t.me/Svarozhuch) | [MaraVelesova](https://app.hackthebox.com/users/3118861) |
+| **recently_was_good** | Участник | Forensics, Crypto, Reverse | [ustinovlev039-cpu](https://github.com/ustinovlev039-cpu) | [@recently_was_good](https://t.me/recently_was_good) | [recently](https://app.hackthebox.com/users/3068176) |
+| **Napulitanka** | Участник | Pentest (Web / Infra) · OSINT | [FrogLouis](https://github.com/FrogLouis) | [@verberpromeret](https://t.me/verberpromeret) | [Napulitanka](https://profile.hackthebox.com/profile/01a07cb6-76b2-7331-be88-c03bdf53f2bb) |
 
 ### Как устроены репозитории
 
