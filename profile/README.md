@@ -1,4 +1,4 @@
-# vl3ss
+<img width="271" height="292" alt="image" src="https://github.com/user-attachments/assets/cfaef118-0833-49b9-b788-f6d169d7e0c5" /># vl3ss
 
 **CTF-команда.** 
 
@@ -49,10 +49,12 @@ kasperky/
 Linux/
 └── Easy/
     ├── Cohort.pdf       
-    └── Enigma.pdf       
+    └── Enigma.pdf
+    └── Management.pdf
+    └── Paperwork.pdf
 Sherlock/
 └── easy/
-    └── Brutus.pdf     
+    └── brutus.pdf     
 ```
 
 ---
