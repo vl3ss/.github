@@ -31,17 +31,22 @@ vl3ss
 ### [ctf_writeup](https://github.com/vl3ss/ctf_writeup)
 
 ```
+SolarCtf
+├── forensics/
+│   └── Все_легче_чем_кажется.pdf
+├── osint/
+│   └── osint_writeup_Tynda_new_phone.pdf
+├── web/
+│   └── КуМир_за_стеной.pdf  
 kasperky/                
-├── crypto/
 └── web/
-    └── Garden.pdf      
+│   └── Garden.pdf
 Кубок_ctf/              
-├── Ratmir/
-│   └── writeup-2.pdf    
-├── Velesova/
-│   └── Слушалка.pdf     
-└── recently_was_good/
-    └── fiiiiirst_note-3.pdf 
+├── forensics/
+│   └── fiiiiirst_note-3.pdf
+├── web/
+│   ├── Слушалка.pdf   
+│   └── Ширяево_Поле.pdf 
 ```
 
 ### [HTB_writeup](https://github.com/vl3ss/HTB_writeup)
@@ -49,13 +54,13 @@ kasperky/
 ```
 Linux/
 └── Easy/
-    ├── Cohort.pdf       
-    └── Enigma.pdf
-    └── Management.pdf
-    └── Paperwork.pdf
+│   ├── Cohort.pdf       
+│   ├── Enigma.pdf
+│   ├── Management.pdf
+│   └── Paperwork.pdf
 Sherlock/
 └── easy/
-    └── brutus.pdf     
+│   └── brutus.pdf     
 ```
 
 ---
