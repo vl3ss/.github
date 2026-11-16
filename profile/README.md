@@ -1,4 +1,4 @@
-<img width="271" height="292" alt="image" src="<img width="281" height="392" alt="image" src="https://github.com/user-attachments/assets/49e787b2-7b0e-42f5-9e06-c2f9935c24b7" />
+<img width="281" height="392" alt="image" src="https://github.com/user-attachments/assets/49e787b2-7b0e-42f5-9e06-c2f9935c24b7" />
 " /># vl3ss
 
 **CTF-команда.** 
